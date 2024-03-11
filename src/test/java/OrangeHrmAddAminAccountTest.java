@@ -13,7 +13,7 @@ import testTools.RepeatedActions;
 import java.time.Duration;
 
 
-public class OrangeHrmAddAminAccountTest {
+public class OrangeHrmAutomatedTest {
         private WebDriver driver;
 
         @BeforeMethod
